@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Gerardo Ragazzi",
+  "description": "Learning site to grasp the basics on NPM",
   "dependencies": {
     "express": "^4.14.0"
   },
